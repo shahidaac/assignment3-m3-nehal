@@ -12,7 +12,6 @@ function kilometerToMeter(yourData) {
 //testing the function:kilometerToMeter
 //console.log(kilometerToMeter(2));
 
-
 //budgetCalculator
 function budgetCalculator(noOfWatch, noOfMobile, noOfLaptop) {
   if (noOfWatch < 0 || noOfMobile < 0 || noOfLaptop < 0) {
@@ -31,7 +30,6 @@ function budgetCalculator(noOfWatch, noOfMobile, noOfLaptop) {
 }
 //testing the function:budgetCalculator
 //console.log(budgetCalculator(1, 2, 3));
-
 
 //hotelCost
 function hotelCost(dayPassed) {
@@ -62,7 +60,6 @@ function hotelCost(dayPassed) {
 //testing the function:hotelCost
 //console.log(hotelCost(6));
 
-
 //megaFriend
 function megaFriend(friendsName) {
   let namesOfFriend = " ";
@@ -78,7 +75,7 @@ function megaFriend(friendsName) {
 /*
 console.log(
   megaFriend([
-    "Cris Ronaldo",
+    "Cristiano Ronaldo",
     "Bjarne Stroustrup",
     "Anders Hejlsberg",
     "Linus Torvalds",
